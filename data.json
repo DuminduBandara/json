@@ -1,0 +1,444 @@
+{
+    "navData": [
+        {
+            "id": 1,
+            "name": "Home",
+            "path": "/"
+        },
+        {
+            "id": 2,
+            "name": "Men Wear",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "category-1",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Top Wear",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "T-Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Casual-Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Formal-Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Blazers & Coats",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Suits",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Jackets",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Belt & Scarves",
+                            "path":"/"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Watches & Wearables",
+                            "path":"/"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "category-2",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Western Wear",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Dresses",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Jumpsuits",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Tops, T-Shirts & Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Shorts & Skirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Shurgs",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Blazers",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Plus Size",
+                            "path":"/"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Sunglasses & Frames",
+                            "path":"/"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "category-3",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Footwear",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Flats",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Casual Shoes",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Heels",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Boots",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Sports & Active Wear",
+                            "miniSubCategories": [
+                                {
+                                    "id": 1,
+                                    "name": "Clothing",
+                                    "path":"/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Footwear",
+                                    "path":"/"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Sports Accessories",
+                                    "path":"/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "category-4",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Jewellers",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Fashion Jewellers",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Fine Jewellers",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Bags & Backpacks",
+                            "path":"/"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Wallets",
+                            "path":"/"
+                        }
+                    ]
+                }
+            ]
+        },
+
+
+        {
+            "id": 3,
+            "name": "Women Wear",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "category-1",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Top Wear",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "T-Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Casual-Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Formal-Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Blazers & Coats",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Suits",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Jackets",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Belt & Scarves",
+                            "path":"/"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Watches & Wearables",
+                            "path":"/"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "category-2",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Western Wear",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Dresses",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Jumpsuits",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Tops, T-Shirts & Shirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Shorts & Skirts",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Shurgs",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Blazers",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Plus Size",
+                            "path":"/"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Sunglasses & Frames",
+                            "path":"/"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "category-3",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Footwear",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Flats",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Casual Shoes",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Heels",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Boots",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Sports & Active Wear",
+                            "miniSubCategories": [
+                                {
+                                    "id": 1,
+                                    "name": "Clothing",
+                                    "path":"/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Footwear",
+                                    "path":"/"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Sports Accessories",
+                                    "path":"/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "category-4",
+                    "subCategories": [
+                        {
+                            "id": 1,
+                            "name": "Jewellers",
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Fashion Jewellers",
+                                    "path": "/"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Fine Jewellers",
+                                    "path": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Bags & Backpacks",
+                            "path":"/"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Wallets",
+                            "path":"/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name": "Brands",
+            "path": "/"
+        },
+        {
+            "id": 5,
+            "name": "Gadgets",
+            "path": "/"
+        },
+        {
+            "id": 6,
+            "name": "Pages",
+            "categories":[
+                {
+                    "id":1,
+                    "name": "Users",
+                    "subCategories":[
+                        {
+                            "id": 1,
+                            "name": "My Account",
+                            "path":"/"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Sign Up & Sign In",
+                            "path":"/"
+                        }
+                    ] 
+                },
+                {
+                    "id": 2,
+                    "name": "Checkout",
+                    "path":"/"
+                },
+                {
+                    "id": 3,
+                    "name": "Contact",
+                    "path":"/"
+                }
+            ]
+        }
+
+    ]
+}
